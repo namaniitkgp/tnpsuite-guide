@@ -1,0 +1,101 @@
+.clear-height{
+  height:40px;
+}
+
+.clear-height-modal{
+  height:30px;
+}
+
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.container-body{
+  width:100%;
+  min-height:700px;
+}
+
+.header{
+  border:none;
+}
+
+.container-header{
+  width:100%;
+  height:100px;
+  background-color: #272930;
+  box-shadow: 1px 1px 10px grey;
+}
+
+.header-content{
+  position: relative;
+  top:16px;
+}
+
+.tnpsuite-logo-text{
+  font-size:26px;
+  font-weight:100;
+}
+
+
+ol li{
+  font-size: 16px;
+  line-height: 24px;
+  margin:24px 0;
+}
+
+.info-sup-icon{
+  /*vertical-align: super;*/
+  font-size: 14px !important;
+  color:#ABBEC7;
+  cursor: pointer;
+}
+
+.video-sup-icon{
+  /*vertical-align: super;*/
+  font-size: 14px !important;
+  color:#ffc107;
+  cursor: pointer;
+}
+
+.side-nav-box{
+  height:700px;
+  padding-right:50px;
+}
+
+.side-nav {
+  /*background-color: #f7f7f7;*/
+  height:700px;
+  width:100%;
+}
+
+.modal-image-box{
+  background-color: #d8d8d8;
+}
+
+.modal-image{
+  width:80%;
+  border:1px #d7d7d7 solid;
+  margin: auto;
+  display: block;
+}
+
+.modal-image-sm{
+  width: 50%;
+}
+
+.modal-image-lg{
+  width: 95%;
+}
+
+.parent-center{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn-o{
+  background-color: transparent;
+  color:#0079a1;
+}
+
+

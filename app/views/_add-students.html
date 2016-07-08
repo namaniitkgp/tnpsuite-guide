@@ -1,0 +1,87 @@
+<div class="row">
+
+  <h3>Add Students</h3>
+  <hr />
+  <ol>
+    <li data-toggle="modal" data-target="#students-tab-modal">
+      Go to <strong>Students tab</strong> and click on your college name <span class="fa fa-question-circle info-sup-icon"></span>
+    </li>
+    <li data-toggle="modal" data-target="#add-students-action-modal">
+      Click on the <strong>Actions</strong> <img src="../images/actions-button.png" style="display:inline-block;width:30px;border:1px #d8d8d8 solid" /> button <span class="fa fa-question-circle info-sup-icon"></span>
+    </li>
+    <li>There are 3 ways to add students to the system:
+      <ul>
+        <li data-toggle="modal" data-target="#upload-student-database">
+          Upload Student Database
+          <span class="fa fa-video-camera video-sup-icon"></span>
+          <p class="text-muted small">This is useful if you already have entire student details in an Excel.<br />
+          You can upload entire data into the system at once.
+          </p>
+        </li>
+        <li data-toggle="modal" data-target="#invite-students-to-register">
+          Invite Students to Register
+          <span class="fa fa-video-camera video-sup-icon"></span>
+          <p class="text-muted small">This is useful if you have student names and email IDs.<br />
+            You upload student names and Email IDs. Emails are automatically sent to students with a registration link, using which they can register online with all their details.
+          </p>
+        </li>
+        <li data-toggle="modal" data-target="#get-shareable-link">
+          Get a Shareable Link
+          <span class="fa fa-video-camera video-sup-icon"></span>
+          <p class="text-muted small">If you do not have any student data, use this.<br />
+          This will generate a short registration link (e.g. iitd.tnpsuite.com). You can share this link with students by any means.
+          </p>
+        </li>
+      </ul>
+
+    </li>
+  </ol>
+
+  <div class="clear-height"></div>
+  <a href="#/add-companies" class="btn btn-primary btn-o">Next <i class="fa fa-chevron-circle-right"></i></a>
+
+</div>
+
+<!--Modals-->
+
+<!--Students Tab Modal-->
+<div id="students-tab-modal" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Students</h4>
+      </div>
+      <div class="modal-body">
+        <div class="modal-image-box">
+          <img class="modal-image modal-image-lg" src="../images/students-college.png" />
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Add Students Action Modal-->
+<div id="add-students-action-modal" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Add Students</h4>
+      </div>
+      <div class="modal-body">
+        <div class="modal-image-box">
+          <img class="modal-image modal-image-lg" src="../images/students-college.png" />
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
