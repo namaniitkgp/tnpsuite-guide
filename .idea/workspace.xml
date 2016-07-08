@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_activate-login.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_activate-login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/_activate-login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            <state relative-caret-position="255">
+              <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_add-students.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_add-students.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/_add-students.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -123,8 +123,8 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/styles/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+            <state relative-caret-position="135">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -151,11 +151,11 @@
         <option value="$PROJECT_DIR$/app/views/_familiarize-screen.html" />
         <option value="$PROJECT_DIR$/app/views/_student-registration-schema.html" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/styles/custom.css" />
         <option value="$PROJECT_DIR$/app/views/_initial-configuration.html" />
-        <option value="$PROJECT_DIR$/app/views/_activate-login.html" />
         <option value="$PROJECT_DIR$/app/views/_placement-process.html" />
         <option value="$PROJECT_DIR$/app/views/_add-students.html" />
+        <option value="$PROJECT_DIR$/app/styles/custom.css" />
+        <option value="$PROJECT_DIR$/app/views/_activate-login.html" />
       </list>
     </option>
   </component>
@@ -416,12 +416,12 @@
       <updated>1467802512914</updated>
       <workItem from="1467802515036" duration="10655000" />
       <workItem from="1467894389842" duration="11292000" />
-      <workItem from="1467952219119" duration="17822000" />
+      <workItem from="1467952219119" duration="19649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39769000" />
+    <option name="totallyTimeSpent" value="41596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="6" />
@@ -736,14 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/_familiarize-screen.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -765,14 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/_activate-login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/_placement-process.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -788,6 +772,22 @@
           <folding>
             <element signature="n#style#0;n#img#0;n#li#1;n#ol#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/_activate-login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>

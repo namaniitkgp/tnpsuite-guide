@@ -6,6 +6,10 @@
   height:30px;
 }
 
+.clear-height-sm{
+  height:20px;
+}
+
 
 .cursor-pointer{
   cursor: pointer;
